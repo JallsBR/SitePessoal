@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700&family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700&family=Raleway:ital,wght@0,100;0,400;1,300&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    box-sizing: border-box ;
+}
+
+body{
+    background-color: #161e31;
+}
+
+#menu{
+    display: inline-block;
+    color: white;
+    align-items: center;
+    float:none;
+    list-style-type: none;
+    font-size: 0.9vmax;
+    padding-left: 50vmax;
+
+}
+
+#menu li{
+    display: inline-block;
+    padding: 1vmax;
+    position: relative;
+    top: -56.5vmax;
+}
+
+#imagemtopo {
+    position: relative;
+    max-width: 100vmax;
+    top: -20vmax;
+}
+
+header{
+    text-align: center;
+    position: relative;
+    color: white;
+    top: -50vmax;
+}
+
+header h1{
+    font-size: 4.5vmax;
+    display: inline;
+
+}
+#amarelo {
+    color: #f8b179;
+}
+
+header p{
+    padding-top: 1vmax;
+    font-size: 0.9vmax;
+    font-weight: 100;
+    color: white;
+
+}
+
+#sobre {
+    text-align: center;
+    position: relative;
+    color: #f8b179;
+    top: -27vmax;
+    font-size: 1.5vmax;
+    display: inline;
+}
+
+#sobre h2{
+    padding-bottom: 2vmax;
+}
+
+#fotooswaldo {
+    position: relative;
+    left: 20vmax;
+    max-width: 25vmax;
+}
+
+#imagemoswaldo {
+    max-width: 20vmax;
+}
+
+#perfilinfo {
+    position: relative;
+    text-align: left;
+    font-size: 1vmax;
+    font-weight: 0;
+    padding: 0.3vmax;
+    color: white;
+    top: -21vmax;
+    left: 47vmax;
+    text-decoration: none;
+    list-style-type: none
+}
+
+#sobreoswaldo {
+    font-size: 1.3vmax;
+    color: #f8b179;
+    padding-bottom: 0px;
+}
+
+#desenvolvedor_paragrafo {
+    font-size: 0.8vmax;
+    font-weight: 0;
+}
+
+#perfilinfo li{
+    text-decoration: none;
+    padding: 0.8vmax;
+}
+
+#perfilinfo2 {
+    position: relative;
+    text-align: left;
+    font-size: 1vmax;
+    font-weight: 0;
+    padding: 0.3vmax;
+    color: white;
+    top: -38vmax;
+    left: 57vmax;
+    text-decoration: none;
+    list-style-type: none
+}
+
+#perfilinfo2 li{
+    text-decoration: none;
+    padding: 0.8vmax;
+}
+
+#serviços {
+    align-items: center;
+    text-align: center;
+    position: relative;
+    display: inline-block;
+    display: inline;
+    color: #f8b179;
+    top: -60vmax;
+    font-size: 1.5vmax;
+
+}
+
+#expositor {
+    display: inline-block;
+    display: inline;
+    position: relative;
+}
+
+
+#serviços h2{
+    padding-bottom: 3vmax;
+}
+
+#serviços article{
+    display: inline-block;
+    display: inline;
+    align-items: center;
+    position: relative;
+    max-width: 20vmax;
+    min-width: 20vmax;
+    min-height: 8vmax;
+    margin: 2vmax;
+    padding: 1vmax;
+    background-color: #2d3250;
+    border-radius: 1vmax;
+    color: white;
+    font-size: 1.0vmax;
+
+}
+
+#serviços p{
+    padding: 1vmax;
+    font-size: 0.8vmax;
+    font-weight: 100;
+
+}
+
+
+
+
+
+

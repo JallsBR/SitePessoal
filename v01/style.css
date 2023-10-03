@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    font-family: 'Montserrat', sans-serif;
+    box-sizing: border-box ;
+}
+body{
+    background-color: rgb(26, 28, 27);;
+}
+
+h1{
+    color: rgb(132, 245, 211);
+    font-size: 6vmax;
+    padding-left: 15vmax;
+    padding-top: 3vmax;
+    padding-bottom: 0px;
+}
+
+#email {
+    color: rgb(255, 255, 255);
+    text-align: right;
+    font-size: 1vmax;
+    padding-right: 16vmax;
+    padding-top: 0px;
+
+}
+
+#celular {
+    text-align: right;
+    color: rgb(255, 255, 255);
+    font-size: 1vmax;
+    padding-right: 16vmax;
+    padding-top: 0px;
+
+}
+
+#perfil {
+    color: rgb(132, 245, 211);
+    font-size: 1vmax;
+    padding-left: 15vmax;
+    padding-top: 2vmax;
+}
+#perfil h2{
+    padding-bottom: 1.5vmax;
+
+}
+
+#perfil p{
+    color: rgb(255, 255, 255);
+    max-width: 60vmax;
+}
+
+#destaque {
+    color: rgb(237, 246, 117);
+    font-weight: 1000;
+    font-size: 1vmax;
+}
+
+#esquerda {
+    position: relative;
+    max-width: 14vmax;
+    top: -10vmax;
+}
+
+#direita {
+    left: 80vmax;
+    position: relative;
+    max-width: 14vmax;
+    top: -35vmax;
+}
+
+#center {
+    position: relative;
+    top: -55vmax;
+
+}
+
+#excelência {
+    color: rgb(132, 245, 211);
+    font-size: 1.5vmax;
+    padding-left: 15vmax;
+    padding-top: 2vmax;
+}
+#expositor{
+    margin-left: 15vmax;
+    margin-top: 1vmax;
+    display: inline-flex;
+    max-width: 80vmax;
+    flex-wrap: wrap;
+}
+
+#trabalhos {
+    background-color:rgb(67, 69, 68);
+    color: aquamarine;
+    margin: 1vmax;
+    padding: 1vmax;
+    border-radius: 1.5vmax;
+    max-width: 15vmax;
+    min-width: 30vmax;
+    min-height: 7vmax;
+
+}
+
+#trabalhos p{
+    color: white;
+    font-size: 0.8vmax;
+    font-weight: 600;
+}
+
+
+#habilidades {
+    background-color: rgb(13, 63, 47);
+    max-width: 13vmax;
+    margin: 1vmax;
+    padding: 1vmax;
+    position: relative;
+    border-radius: 15%;
+}
+
+#habilidades h4{
+    color:aquamarine;
+    font-size: 1.5vmax;
+}
+
+#habilidades p{
+    color: aquamarine;
+    font-size: 0.8vmax;
+    font-weight: 600;
+}
+
+#dados {
+    background-color: rgb(13, 63, 47);
+    max-width: 13vmax;
+    margin: 1vmax;
+    padding: 1vmax;
+    position: relative;
+    border-radius: 15%;
+}
+
+#dados h4{
+    color:aquamarine;
+    font-size: 1.5vmax;
+}
+
+#dados p{
+    color: aquamarine;
+    font-size: 0.8vmax;
+    font-weight: 600;
+    padding-bottom: 0.5vmax;
+}
+
+#demoreel {
+    color:aquamarine;
+    font-size: 1.3vmax;
+    margin: 1.2vmax;
+    position: relative;
+    border-radius: 15%;
+}
+
+#tecnologias {
+
+    background-color: rgb(13, 63, 47);
+    font-size: 1vmax;
+    color: aquamarine;
+    border: 2vmax;
+    font-weight: 600;
+    max-width: 13vmax;
+    margin: 1vmax;
+    padding: 2vmax;
+    border-radius: 15%;
+
+}
+
+#programas {
+    background-color: rgb(13, 63, 47);
+    font-size: 1vmax;
+    color: aquamarine;
+    border: 2vmax;
+    font-weight: 600;
+    max-width: 13vmax;
+    margin: 1vmax;
+    padding: 2vmax;
+    border-radius: 15%;
+
+}
